@@ -4,8 +4,8 @@
 
 ## Ссылка на опубликованную страницу
 
-- репозиторий: `https://github.com/<username>/snapbuild-test-task`
-- GitHub Pages: `https://<username>.github.io/snapbuild-test-task/`
+- репозиторий: `https://github.com/Zach13131/snapbuild`
+- GitHub Pages: `[https://<username>.github.io/snapbuild-test-task/](https://zach13131.github.io/snapbuild/)`
 
 ## Инструкция по локальному запуску
 
