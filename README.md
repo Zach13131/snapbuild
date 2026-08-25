@@ -5,7 +5,7 @@
 ## Ссылка на опубликованную страницу
 
 - репозиторий: `https://github.com/Zach13131/snapbuild`
-- GitHub Pages: [https://<username>.github.io/snapbuild-test-task/](https://zach13131.github.io/snapbuild/)
+- GitHub Pages: [https://zach13131.github.io/snapbuild/](https://zach13131.github.io/snapbuild/)
 
 ## Инструкция по локальному запуску
 
